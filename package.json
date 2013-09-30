@@ -1,0 +1,25 @@
+{
+  "name": "wp-util",
+  "version": "0.0.1",
+  "description": "A set of utilities for working with WordPress",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node_modules/istanbul/lib/cli.js test node_modules/mocha/bin/_mocha --dir test/coverage"
+  },
+  "keywords": [
+    "WordPress"
+  ],
+  "author": "Wes Todd",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "mocha": "~1.13.0",
+    "istanbul": "~0.1.44",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "dependencies": {
+    "simple-git": "~0.1.2",
+    "mysql": "~2.0.0-alpha9"
+  }
+}
