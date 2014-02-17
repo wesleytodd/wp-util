@@ -15,7 +15,7 @@ module.exports = function(grunt) {
 
 		mocha: {
 			all: {
-				src: ['test/test.js']
+				src: ['test/config.js']
 			}
 		},
 

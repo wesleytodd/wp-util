@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "simple-git": "~0.1.2",
-    "mysql": "~2.0.0-alpha9"
+    "mysql": "~2.0.0-alpha9",
+    "lodash": "~2.4.1",
+    "winston": "~0.7.2"
   }
 }
