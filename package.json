@@ -1,6 +1,6 @@
 {
   "name": "wp-util",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A set of utilities for working with WordPress",
   "main": "lib/index.js",
   "scripts": {
